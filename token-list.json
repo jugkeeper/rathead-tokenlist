@@ -1,0 +1,25 @@
+{
+    "name": "Rathead Token List",
+    "timestamp": "2025-07-09T12:00:00Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "tokens": [
+      {
+        "chainId": 8453,
+        "address": "0xe9314120e3e5bd20342423cf0b25252b91f04be7",
+        "name": "Rathead",
+        "symbol": "RATHEAD",
+        "decimals": 18,
+        "logoURI": "https://ratheads.com/logo-64x64.svg",
+        "extensions": {
+          "description": "Rathead ($RATHEAD) is a memecoin fueled by the ceremonial deposit of real Chuck E. Cheese tokens into a five-gallon glass jug. There is no promise of value, ownership, or continuity. There is only The Jug.",
+          "website": "https://ratheads.com"
+        }
+      }
+    ],
+    "keywords": ["rathead", "memecoin", "jug", "base"],
+    "logoURI": "https://ratheads.com/logo-64x64.svg"
+  }
